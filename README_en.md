@@ -117,8 +117,8 @@ sudo update-grub
 
 <table>
 <tr>
-<td style="text-align: center;"><img width="30%" src="https://pica.zhimg.com/v2-bbda9b88c354a2074b26ba4746c4a2bd_100w.jpg" title="alipay"><br>Alipay</td>
-<td style="text-align: center;"><img width="35%" src="https://picx.zhimg.com/v2-6abdd4264bf5c066fe1acd46b7e5cac1_100w.jpg" title="wechat"><br>Wechat</td>
+<td style="text-align: center;"><img width="80%" src="https://pica.zhimg.com/v2-bbda9b88c354a2074b26ba4746c4a2bd_100w.jpg" title="alipay"><br>Alipay</td>
+<td style="text-align: center;"><img width="85%" src="https://picx.zhimg.com/v2-6abdd4264bf5c066fe1acd46b7e5cac1_100w.jpg" title="wechat"><br>Wechat</td>
 </tr>
 </table>
 
