@@ -73,6 +73,17 @@ TP: MSFT0001
 
 
 
+## 咖啡
+
+<table>
+<tr>
+<td style="text-align: center;"><img width="30%" src="https://pica.zhimg.com/v2-bbda9b88c354a2074b26ba4746c4a2bd_100w.jpg" title="alipay"><br>支付宝</td>
+<td style="text-align: center;"><img width="35%" src="https://picx.zhimg.com/v2-6abdd4264bf5c066fe1acd46b7e5cac1_100w.jpg" title="wechat"><br>微信</td>
+</tr>
+</table>
+
+
+
 ## Grub引导Linux/macOS双系统
 
 主力系统为Ubuntu，使用Grub引导OpenCore（Grub默认支持识别Windows启动分区，可实现3系统引导）。
