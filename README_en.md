@@ -116,6 +116,12 @@ sudo update-grub
 
 
 
+## **Star**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChgygLin/thinkbook16p-2021-5800H-EFI&type=Date)
+
+
+
 ## Buy me a coffee
 
 <table>
